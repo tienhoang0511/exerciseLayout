@@ -1,0 +1,15 @@
+D:\xamarin\GridLayoutExercise1\GridLayoutExercise1\GridLayoutExercise1\bin\Debug\netstandard2.0\GridLayoutExercise1.deps.json
+D:\xamarin\GridLayoutExercise1\GridLayoutExercise1\GridLayoutExercise1\bin\Debug\netstandard2.0\GridLayoutExercise1.dll
+D:\xamarin\GridLayoutExercise1\GridLayoutExercise1\GridLayoutExercise1\bin\Debug\netstandard2.0\ref\GridLayoutExercise1.dll
+D:\xamarin\GridLayoutExercise1\GridLayoutExercise1\GridLayoutExercise1\bin\Debug\netstandard2.0\GridLayoutExercise1.pdb
+D:\xamarin\GridLayoutExercise1\GridLayoutExercise1\GridLayoutExercise1\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\xamarin\GridLayoutExercise1\GridLayoutExercise1\GridLayoutExercise1\obj\Debug\netstandard2.0\GridPage.xaml.g.cs
+D:\xamarin\GridLayoutExercise1\GridLayoutExercise1\GridLayoutExercise1\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\xamarin\GridLayoutExercise1\GridLayoutExercise1\GridLayoutExercise1\obj\Debug\netstandard2.0\GridLayoutExercise1.AssemblyInfoInputs.cache
+D:\xamarin\GridLayoutExercise1\GridLayoutExercise1\GridLayoutExercise1\obj\Debug\netstandard2.0\GridLayoutExercise1.AssemblyInfo.cs
+D:\xamarin\GridLayoutExercise1\GridLayoutExercise1\GridLayoutExercise1\obj\Debug\netstandard2.0\GridLayoutExercise1.csproj.CoreCompileInputs.cache
+D:\xamarin\GridLayoutExercise1\GridLayoutExercise1\GridLayoutExercise1\obj\Debug\netstandard2.0\XamlC.stamp
+D:\xamarin\GridLayoutExercise1\GridLayoutExercise1\GridLayoutExercise1\obj\Debug\netstandard2.0\GridLayoutExercise1.dll
+D:\xamarin\GridLayoutExercise1\GridLayoutExercise1\GridLayoutExercise1\obj\Debug\netstandard2.0\ref\GridLayoutExercise1.dll
+D:\xamarin\GridLayoutExercise1\GridLayoutExercise1\GridLayoutExercise1\obj\Debug\netstandard2.0\GridLayoutExercise1.pdb
+D:\xamarin\GridLayoutExercise1\GridLayoutExercise1\GridLayoutExercise1\obj\Debug\netstandard2.0\GridLayoutExercise1.csprojAssemblyReference.cache

@@ -1,0 +1,15 @@
+D:\xamarin\AbsoluteLayoutExercise2\AbsoluteLayoutExercise2\AbsoluteLayoutExercise2\bin\Debug\netstandard2.0\AbsoluteLayoutExercise2.deps.json
+D:\xamarin\AbsoluteLayoutExercise2\AbsoluteLayoutExercise2\AbsoluteLayoutExercise2\bin\Debug\netstandard2.0\AbsoluteLayoutExercise2.dll
+D:\xamarin\AbsoluteLayoutExercise2\AbsoluteLayoutExercise2\AbsoluteLayoutExercise2\bin\Debug\netstandard2.0\ref\AbsoluteLayoutExercise2.dll
+D:\xamarin\AbsoluteLayoutExercise2\AbsoluteLayoutExercise2\AbsoluteLayoutExercise2\bin\Debug\netstandard2.0\AbsoluteLayoutExercise2.pdb
+D:\xamarin\AbsoluteLayoutExercise2\AbsoluteLayoutExercise2\AbsoluteLayoutExercise2\obj\Debug\netstandard2.0\AbsoluteLayoutExercise2.csprojAssemblyReference.cache
+D:\xamarin\AbsoluteLayoutExercise2\AbsoluteLayoutExercise2\AbsoluteLayoutExercise2\obj\Debug\netstandard2.0\AbsolutePage.xaml.g.cs
+D:\xamarin\AbsoluteLayoutExercise2\AbsoluteLayoutExercise2\AbsoluteLayoutExercise2\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\xamarin\AbsoluteLayoutExercise2\AbsoluteLayoutExercise2\AbsoluteLayoutExercise2\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\xamarin\AbsoluteLayoutExercise2\AbsoluteLayoutExercise2\AbsoluteLayoutExercise2\obj\Debug\netstandard2.0\AbsoluteLayoutExercise2.AssemblyInfoInputs.cache
+D:\xamarin\AbsoluteLayoutExercise2\AbsoluteLayoutExercise2\AbsoluteLayoutExercise2\obj\Debug\netstandard2.0\AbsoluteLayoutExercise2.AssemblyInfo.cs
+D:\xamarin\AbsoluteLayoutExercise2\AbsoluteLayoutExercise2\AbsoluteLayoutExercise2\obj\Debug\netstandard2.0\AbsoluteLayoutExercise2.csproj.CoreCompileInputs.cache
+D:\xamarin\AbsoluteLayoutExercise2\AbsoluteLayoutExercise2\AbsoluteLayoutExercise2\obj\Debug\netstandard2.0\XamlC.stamp
+D:\xamarin\AbsoluteLayoutExercise2\AbsoluteLayoutExercise2\AbsoluteLayoutExercise2\obj\Debug\netstandard2.0\AbsoluteLayoutExercise2.dll
+D:\xamarin\AbsoluteLayoutExercise2\AbsoluteLayoutExercise2\AbsoluteLayoutExercise2\obj\Debug\netstandard2.0\ref\AbsoluteLayoutExercise2.dll
+D:\xamarin\AbsoluteLayoutExercise2\AbsoluteLayoutExercise2\AbsoluteLayoutExercise2\obj\Debug\netstandard2.0\AbsoluteLayoutExercise2.pdb

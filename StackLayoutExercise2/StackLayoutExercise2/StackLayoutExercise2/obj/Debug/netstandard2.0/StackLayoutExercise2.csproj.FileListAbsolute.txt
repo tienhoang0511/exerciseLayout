@@ -1,0 +1,15 @@
+D:\xamarin\StackLayoutExercise2\StackLayoutExercise2\StackLayoutExercise2\bin\Debug\netstandard2.0\StackLayoutExercise2.deps.json
+D:\xamarin\StackLayoutExercise2\StackLayoutExercise2\StackLayoutExercise2\bin\Debug\netstandard2.0\StackLayoutExercise2.dll
+D:\xamarin\StackLayoutExercise2\StackLayoutExercise2\StackLayoutExercise2\bin\Debug\netstandard2.0\ref\StackLayoutExercise2.dll
+D:\xamarin\StackLayoutExercise2\StackLayoutExercise2\StackLayoutExercise2\bin\Debug\netstandard2.0\StackLayoutExercise2.pdb
+D:\xamarin\StackLayoutExercise2\StackLayoutExercise2\StackLayoutExercise2\obj\Debug\netstandard2.0\StackLayoutExercise2.csprojAssemblyReference.cache
+D:\xamarin\StackLayoutExercise2\StackLayoutExercise2\StackLayoutExercise2\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\xamarin\StackLayoutExercise2\StackLayoutExercise2\StackLayoutExercise2\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\xamarin\StackLayoutExercise2\StackLayoutExercise2\StackLayoutExercise2\obj\Debug\netstandard2.0\StackPage.xaml.g.cs
+D:\xamarin\StackLayoutExercise2\StackLayoutExercise2\StackLayoutExercise2\obj\Debug\netstandard2.0\StackLayoutExercise2.AssemblyInfoInputs.cache
+D:\xamarin\StackLayoutExercise2\StackLayoutExercise2\StackLayoutExercise2\obj\Debug\netstandard2.0\StackLayoutExercise2.AssemblyInfo.cs
+D:\xamarin\StackLayoutExercise2\StackLayoutExercise2\StackLayoutExercise2\obj\Debug\netstandard2.0\StackLayoutExercise2.csproj.CoreCompileInputs.cache
+D:\xamarin\StackLayoutExercise2\StackLayoutExercise2\StackLayoutExercise2\obj\Debug\netstandard2.0\XamlC.stamp
+D:\xamarin\StackLayoutExercise2\StackLayoutExercise2\StackLayoutExercise2\obj\Debug\netstandard2.0\StackLayoutExercise2.dll
+D:\xamarin\StackLayoutExercise2\StackLayoutExercise2\StackLayoutExercise2\obj\Debug\netstandard2.0\ref\StackLayoutExercise2.dll
+D:\xamarin\StackLayoutExercise2\StackLayoutExercise2\StackLayoutExercise2\obj\Debug\netstandard2.0\StackLayoutExercise2.pdb

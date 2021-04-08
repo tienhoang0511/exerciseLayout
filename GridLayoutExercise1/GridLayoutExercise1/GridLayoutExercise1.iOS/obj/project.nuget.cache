@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "aj4xA/jhS7p+nOaFoWlVyCJfOBa7PuBF/gT8y4OpHN9k64ioVgqh8biySkCi8tIEcnUA/VhRIsmlN+XvAgRdww==",
+  "success": true,
+  "projectFilePath": "D:\\xamarin\\GridLayoutExercise1\\GridLayoutExercise1\\GridLayoutExercise1.iOS\\GridLayoutExercise1.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.6.1\\xamarin.essentials.1.6.1.nupkg.sha512",
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\5.0.0.2012\\xamarin.forms.5.0.0.2012.nupkg.sha512"
+  ],
+  "logs": []
+}

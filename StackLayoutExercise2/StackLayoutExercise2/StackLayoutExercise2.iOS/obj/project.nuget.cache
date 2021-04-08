@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Y/G5xuH9g6PV8KRqRvrwi1UGIB/m1dwrjG7xpIocdYP/xvgZONULFj1Dg0PqdxL/aeYdShx8/MFPDOZ3yN/TzQ==",
+  "success": true,
+  "projectFilePath": "D:\\xamarin\\StackLayoutExercise2\\StackLayoutExercise2\\StackLayoutExercise2.iOS\\StackLayoutExercise2.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.6.1\\xamarin.essentials.1.6.1.nupkg.sha512",
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\5.0.0.2012\\xamarin.forms.5.0.0.2012.nupkg.sha512"
+  ],
+  "logs": []
+}

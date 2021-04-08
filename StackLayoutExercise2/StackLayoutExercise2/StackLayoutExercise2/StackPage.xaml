@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="StackLayoutExercise2.StackPage"
+             BackgroundColor="White">
+    <StackLayout 
+        Orientation="Vertical"
+        HorizontalOptions="Fill">
+        
+        
+        <Label Text="nyc_photographer" Padding="10,10,0,0"/>
+        
+        <Image Source="https://aphoto.vn/wp-content/uploads/2018/02/anh-dep-chup-dien-thoai.jpg" />
+        
+        <StackLayout
+            Orientation="Horizontal"
+            Padding="10,10,5,15">
+
+            <Label Text="Like" TextColor="Blue"/>
+            <Label Text="Comment" TextColor="Blue"/>
+            <Label Text="Share" TextColor="Blue"/>
+
+        </StackLayout>
+
+        <BoxView BackgroundColor="#f0f0f0" HeightRequest="1"/>
+
+        <Label Text="700 likes" FontAttributes="Bold" Padding="10,0,0,0"/>
+
+        <Label Text="This is a shot yesterday in Skanor,Sweden,when driving home,from acouple of days os work in Denmark" Padding="10,0,0,0"/>
+        
+    </StackLayout>
+</ContentPage>

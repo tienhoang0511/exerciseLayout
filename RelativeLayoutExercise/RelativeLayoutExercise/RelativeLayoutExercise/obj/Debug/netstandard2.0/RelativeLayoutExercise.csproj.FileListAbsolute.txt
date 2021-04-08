@@ -1,0 +1,15 @@
+D:\xamarin\RelativeLayoutExercise\RelativeLayoutExercise\RelativeLayoutExercise\bin\Debug\netstandard2.0\RelativeLayoutExercise.deps.json
+D:\xamarin\RelativeLayoutExercise\RelativeLayoutExercise\RelativeLayoutExercise\bin\Debug\netstandard2.0\RelativeLayoutExercise.dll
+D:\xamarin\RelativeLayoutExercise\RelativeLayoutExercise\RelativeLayoutExercise\bin\Debug\netstandard2.0\ref\RelativeLayoutExercise.dll
+D:\xamarin\RelativeLayoutExercise\RelativeLayoutExercise\RelativeLayoutExercise\bin\Debug\netstandard2.0\RelativeLayoutExercise.pdb
+D:\xamarin\RelativeLayoutExercise\RelativeLayoutExercise\RelativeLayoutExercise\obj\Debug\netstandard2.0\RelativeLayoutExercise.csprojAssemblyReference.cache
+D:\xamarin\RelativeLayoutExercise\RelativeLayoutExercise\RelativeLayoutExercise\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\xamarin\RelativeLayoutExercise\RelativeLayoutExercise\RelativeLayoutExercise\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\xamarin\RelativeLayoutExercise\RelativeLayoutExercise\RelativeLayoutExercise\obj\Debug\netstandard2.0\RelativePage.xaml.g.cs
+D:\xamarin\RelativeLayoutExercise\RelativeLayoutExercise\RelativeLayoutExercise\obj\Debug\netstandard2.0\RelativeLayoutExercise.AssemblyInfoInputs.cache
+D:\xamarin\RelativeLayoutExercise\RelativeLayoutExercise\RelativeLayoutExercise\obj\Debug\netstandard2.0\RelativeLayoutExercise.AssemblyInfo.cs
+D:\xamarin\RelativeLayoutExercise\RelativeLayoutExercise\RelativeLayoutExercise\obj\Debug\netstandard2.0\RelativeLayoutExercise.csproj.CoreCompileInputs.cache
+D:\xamarin\RelativeLayoutExercise\RelativeLayoutExercise\RelativeLayoutExercise\obj\Debug\netstandard2.0\XamlC.stamp
+D:\xamarin\RelativeLayoutExercise\RelativeLayoutExercise\RelativeLayoutExercise\obj\Debug\netstandard2.0\RelativeLayoutExercise.dll
+D:\xamarin\RelativeLayoutExercise\RelativeLayoutExercise\RelativeLayoutExercise\obj\Debug\netstandard2.0\ref\RelativeLayoutExercise.dll
+D:\xamarin\RelativeLayoutExercise\RelativeLayoutExercise\RelativeLayoutExercise\obj\Debug\netstandard2.0\RelativeLayoutExercise.pdb
